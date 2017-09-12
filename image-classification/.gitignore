@@ -1,9 +1,2 @@
-__pycache__
-
-*.index
-
-*.p
-
-*.meta
-
-image_classification.data-00000-of-00001
+cifar-10-*
+preprocess_*
