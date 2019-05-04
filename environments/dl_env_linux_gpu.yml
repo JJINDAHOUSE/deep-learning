@@ -122,7 +122,7 @@ dependencies:
   - moviepy==0.2.2.13
   - prompt-toolkit==1.0.13
   - protobuf==3.2.0
-  - pyyaml==3.12
+  - pyyaml==4.2b1
   - tensorflow-gpu==1.0.0
   - theano==0.8.2
   - tqdm==4.11.2

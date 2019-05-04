@@ -87,8 +87,8 @@ dependencies:
   - pyglet==1.2.4
   - pyopengl==3.1.0
   - python-rtmidi==1.0.0
-  - pyyaml==3.12
-  - requests==2.13.0
+  - pyyaml==4.2b1
+  - requests==2.20.0
   - tensorflow-gpu==1.0.0
   - theano==0.8.2
   - tqdm==4.11.2
